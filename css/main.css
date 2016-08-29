@@ -1,0 +1,11 @@
+body {
+  color: #000;
+  background-color: #f6f6f6;
+  font: 14px/1.5 Helvetica, arial, sans-serif;
+}
+body #logo {
+  border-radius: 5px;
+}
+.example {
+  margin: 8px;
+}
